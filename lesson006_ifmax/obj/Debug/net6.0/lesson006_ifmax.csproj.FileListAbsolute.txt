@@ -1,0 +1,15 @@
+C:\Users\Jalini\Documents\Обучение\lesson_C\lesson006_ifmax\obj\Debug\net6.0\lesson006_ifmax.csproj.AssemblyReference.cache
+C:\Users\Jalini\Documents\Обучение\lesson_C\lesson006_ifmax\obj\Debug\net6.0\lesson006_ifmax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jalini\Documents\Обучение\lesson_C\lesson006_ifmax\obj\Debug\net6.0\lesson006_ifmax.AssemblyInfoInputs.cache
+C:\Users\Jalini\Documents\Обучение\lesson_C\lesson006_ifmax\obj\Debug\net6.0\lesson006_ifmax.AssemblyInfo.cs
+C:\Users\Jalini\Documents\Обучение\lesson_C\lesson006_ifmax\obj\Debug\net6.0\lesson006_ifmax.csproj.CoreCompileInputs.cache
+C:\Users\Jalini\Documents\Обучение\lesson_C\lesson006_ifmax\bin\Debug\net6.0\lesson006_ifmax.exe
+C:\Users\Jalini\Documents\Обучение\lesson_C\lesson006_ifmax\bin\Debug\net6.0\lesson006_ifmax.deps.json
+C:\Users\Jalini\Documents\Обучение\lesson_C\lesson006_ifmax\bin\Debug\net6.0\lesson006_ifmax.runtimeconfig.json
+C:\Users\Jalini\Documents\Обучение\lesson_C\lesson006_ifmax\bin\Debug\net6.0\lesson006_ifmax.dll
+C:\Users\Jalini\Documents\Обучение\lesson_C\lesson006_ifmax\bin\Debug\net6.0\lesson006_ifmax.pdb
+C:\Users\Jalini\Documents\Обучение\lesson_C\lesson006_ifmax\obj\Debug\net6.0\lesson006_ifmax.dll
+C:\Users\Jalini\Documents\Обучение\lesson_C\lesson006_ifmax\obj\Debug\net6.0\refint\lesson006_ifmax.dll
+C:\Users\Jalini\Documents\Обучение\lesson_C\lesson006_ifmax\obj\Debug\net6.0\lesson006_ifmax.pdb
+C:\Users\Jalini\Documents\Обучение\lesson_C\lesson006_ifmax\obj\Debug\net6.0\lesson006_ifmax.genruntimeconfig.cache
+C:\Users\Jalini\Documents\Обучение\lesson_C\lesson006_ifmax\obj\Debug\net6.0\ref\lesson006_ifmax.dll
